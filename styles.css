@@ -1,0 +1,13 @@
+body { 
+    padding-top: 10%;
+    background-color: #A0BFE0;
+}
+
+.heading {
+    text-align: center;
+}
+
+.tasks {
+    padding: 5% 40%;
+    text-align: center;
+}

@@ -58,7 +58,7 @@ body {
 }
 
 .individualTaskCard {
-  width: 50%;
+  flex: 1 1 300px;
   box-sizing: border-box;
   padding: 10px;
   border: 1px solid #464343;

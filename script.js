@@ -1,3 +1,7 @@
+function navigateToProgram(url) {
+  window.location.href = url;
+}
+
 /*  Sum of 2 numbers
     Write a function that takes in 2 numbers and returns their sum. 
 
@@ -7,8 +11,6 @@
 
    let result = addNumbers(4, 5)
    console.log(result); */
-   
-   
 
 /*  Sum of 3 numbers
    function addThreeNumbers(num1, num2, num3) {
@@ -17,8 +19,6 @@
 
    let result = addThreeNumbers(2, 2, 2)
    console.log(result) */
-
-
 
 /*  Greater than 5
    Returns true if function greater than 5
@@ -30,8 +30,6 @@
    console.log(greaterThanFive(6));
    console.log(greaterThanFive(3));
    console.log(greaterThanFive(5));  */
-
-
 
 /*  Biggest number out of 2
 

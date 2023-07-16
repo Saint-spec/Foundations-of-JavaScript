@@ -60,3 +60,14 @@ function largestNum(num1, num2, num3) {
 }
  
 console.log(largestNum(34, 12, 12348)); */
+
+/*Is First num Bigger*/
+
+/* 
+function isFirstnumberGreaterThanSecond(num1, num2) {
+  return num1 > num2;
+}
+
+var result = isFirstnumberGreaterThanSecond(2, 3);
+console.log(result);
+*/

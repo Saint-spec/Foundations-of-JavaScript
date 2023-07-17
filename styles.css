@@ -1,7 +1,8 @@
 body { 
-    padding-top: 10%;
-    background-color: #A0BFE0;
-    
+  padding-top: 10%;
+  background-color: #A0BFE0;  
+  font-family: 'Play', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .heading {
@@ -39,7 +40,10 @@ body {
   transform: scaleX(1);
 }
  
-
+.basics{
+  text-align: center;
+  padding-top: 5%;
+}
 
 
 .tasks {
